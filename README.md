@@ -2,6 +2,11 @@
 
 __Coupe__ is an open source computational photography and image processing software library, which is developed by POSTECH computer graphics laboratory.
 
+## License
+This software is being made available under the terms in the [LICENSE](LICENSE) file.
+
+Any exemptions to these terms requires a license from the Pohang University of Science and Technology.
+
 ## Coupe Packages ##
 
   * Image Processing
